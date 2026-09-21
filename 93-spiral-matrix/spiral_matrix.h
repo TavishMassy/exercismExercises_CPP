@@ -1,0 +1,10 @@
+#pragma once
+#include <vector>
+#include <unitypes.h>
+
+namespace spiral_matrix {
+
+// TODO: add your solution here
+std::vector<std::vector<uint32_t>> spiral_matrix(uint32_t num);
+
+}  // namespace spiral_matrix
