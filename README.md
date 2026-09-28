@@ -7,7 +7,7 @@ This repository contains my solutions to **100 exercises** from the [Exercism C+
 
 ## 👤 Exercism Profile
 You can view my public profile, community iterations, and published solutions directly on the platform here:  
-👉 **[Solutions on Exercism](https://exercism.org/profiles/TavishMassy/solutions)**
+👉 **[Solutions on Exercism](https://exercism.org/profiles/TavishMassy/solutions?track_slug=cpp)**
 
 ---
 
